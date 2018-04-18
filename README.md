@@ -1,0 +1,2 @@
+# -Los-Massi-ProyectoFinalBD
+Saludos! Somos el grupo "Los Massi" y este es nuestro proyecto final de Base de Datos, con el profesor Starling Germosen en la seccion 0541. Este proyecto consta de 3 base de datos que cumplen con las indicaciones asignadas por el profesor. Nuestro grupo esta conformado por: Say Massiel Meran Mejia  -  16-SIIT-1-076   -   Frandy G. Reyes  -  16-SIIT-1-032  -   Bismar De Leon  -  16-SIIT-1-030
